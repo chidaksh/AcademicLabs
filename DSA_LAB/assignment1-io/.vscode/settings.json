@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "iterator": "c",
+        "cstdio": "c",
+        "stdio.h": "c",
+        "cstdlib": "cpp",
+        "stdlib.h": "c",
+        "random": "c",
+        "functional": "c",
+        "iosfwd": "c"
+    }
+}

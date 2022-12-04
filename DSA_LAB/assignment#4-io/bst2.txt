@@ -1,0 +1,108 @@
+88 inserted
+20 inserted
+20 88
+20 88
+61 inserted
+16 not found
+34 inserted
+77 inserted
+88
+34 77 61 20 88
+75 not found
+88
+31 inserted
+93 inserted
+31 34 77 61 20 93 88
+20
+89 inserted
+87 does not exist
+3 does not exist
+31 34 77 61 20 89 93 88
+31 34 77 61 20 89 93 88
+64 inserted
+93
+91 inserted
+9 not found
+20 31 34 61 64 77 88 89 91 93
+57 inserted
+14 inserted
+74 inserted
+14 20 31 34 57 61 64 74 77 88 89 91 93
+91 found
+47 does not exist
+28 inserted
+14 28 31 57 34 74 64 77 61 20 91 89 93 88
+91 found
+26 inserted
+14
+14 20 26 28 31 34 57 61 64 74 77 88 89 91 93
+21 does not exist
+63 inserted
+43 inserted
+13 not found
+17 inserted
+66 not found
+89
+27 inserted
+4 does not exist
+19 does not exist
+69 inserted
+14 17 20 26 27 28 31 34 43 57 61 63 64 69 74 77 88 89 91 93
+22 not found
+44 inserted
+58 not found
+23 inserted
+64
+14 17 20 23 26 27 28 31 34 43 44 57 61 63 64 69 74 77 88 89 91 93
+51 does not exist
+88 20 14 17 61 34 31 28 26 23 27 57 43 44 77 64 63 74 69 93 89 91
+79 does not exist
+3 inserted
+69
+93
+74
+38 not found
+9 does not exist
+32 inserted
+93
+88 20 14 3 17 61 34 31 28 26 23 27 32 57 43 44 77 64 63 74 69 93 89 91
+75 inserted
+16 inserted
+25 does not exist
+62 not found
+2 inserted
+92 inserted
+93
+59 inserted
+67 does not exist
+76 inserted
+2 3 16 17 14 23 27 26 28 32 31 44 43 59 57 34 63 69 76 75 74 64 77 61 20 92 91 89 93 88
+93
+82 inserted
+49 inserted
+2
+19 inserted
+57
+58 inserted
+53 not found
+10 does not exist
+54 inserted
+2 3 16 19 17 14 23 27 26 28 32 31 54 49 44 43 58 59 57 34 63 69 76 75 74 64 82 77 61 20 92 91 89 93 88
+2 3 16 19 17 14 23 27 26 28 32 31 54 49 44 43 58 59 57 34 63 69 76 75 74 64 82 77 61 20 92 91 89 93 88
+52 inserted
+2 3 16 19 17 14 23 27 26 28 32 31 52 54 49 44 43 58 59 57 34 63 69 76 75 74 64 82 77 61 20 92 91 89 93 88
+93
+2
+65 inserted
+2
+56 does not exist
+40 inserted
+93
+72 inserted
+93
+88 20 14 3 2 17 16 19 61 34 31 28 26 23 27 32 57 43 40 44 49 54 52 59 58 77 64 63 74 69 65 72 75 76 82 93 89 91 92
+2 3 14 16 17 19 20 23 26 27 28 31 32 34 40 43 44 49 52 54 57 58 59 61 63 64 65 69 72 74 75 76 77 82 88 89 91 92 93
+88 20 14 3 2 17 16 19 61 34 31 28 26 23 27 32 57 43 40 44 49 54 52 59 58 77 64 63 74 69 65 72 75 76 82 93 89 91 92
+2
+2
+93

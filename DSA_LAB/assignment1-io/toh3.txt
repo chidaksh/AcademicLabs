@@ -1,0 +1,17 @@
+Push disk 3 to Stack A
+Push disk 2 to Stack A
+Push disk 1 to Stack A
+Pop disk 1 from Stack A
+Push disk 1 to Stack C
+Pop disk 2 from Stack A
+Push disk 2 to Stack B
+Pop disk 1 from Stack C
+Push disk 1 to Stack B
+Pop disk 3 from Stack A
+Push disk 3 to Stack C
+Pop disk 1 from Stack B
+Push disk 1 to Stack A
+Pop disk 2 from Stack B
+Push disk 2 to Stack C
+Pop disk 1 from Stack A
+Push disk 1 to Stack C

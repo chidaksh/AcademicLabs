@@ -1,0 +1,117 @@
+
+
+
+
+67 does not exist
+
+59 inserted
+2 does not exist
+47 inserted
+7 inserted
+59 47 7
+59 47 7
+56 not found
+42 inserted
+32 inserted
+44 does not exist
+6 inserted
+59
+90 inserted
+64 inserted
+6
+47
+80 inserted
+6
+87 inserted
+40 inserted
+90
+45 inserted
+77 inserted
+74 inserted
+99 inserted
+6
+13 inserted
+44 does not exist
+52 inserted
+11 inserted
+66 inserted
+63 inserted
+18 not found
+23 not found
+38 does not exist
+61 inserted
+77
+93 not found
+6
+53 does not exist
+6 7 11 13 32 40 42 45 47 52 59 61 63 64 66 74 77 80 87 90 99
+69 not found
+6
+59 47 7 6 42 32 13 11 40 45 52 90 64 63 61 80 77 74 66 87 99
+78 does not exist
+86 inserted
+17 inserted
+24 inserted
+6 11 24 17 13 40 32 45 42 7 52 47 61 63 66 74 77 86 87 80 64 99 90 59
+59 47 7 6 42 32 13 11 17 24 40 45 52 90 64 63 61 80 77 74 66 87 86 99
+9 does not exist
+15 inserted
+26 inserted
+70 does not exist
+48 inserted
+59 47 7 6 42 32 13 11 17 15 24 26 40 45 52 48 90 64 63 61 80 77 74 66 87 86 99
+25 does not exist
+18 inserted
+15
+18
+83 not found
+38 inserted
+91 not found
+37 not found
+81 does not exist
+29 inserted
+94 does not exist
+33 inserted
+51 inserted
+6
+94 inserted
+85 does not exist
+77
+45
+55 does not exist
+76 does not exist
+6 7 11 13 15 17 18 24 26 29 32 33 38 40 42 45 47 48 51 52 59 61 63 64 66 74 77 80 86 87 90 94 99
+99 found
+22 inserted
+14 does not exist
+98 inserted
+6 7 11 13 15 17 18 22 24 26 29 32 33 38 40 42 45 47 48 51 52 59 61 63 64 66 74 77 80 86 87 90 94 98 99
+46 does not exist
+44 inserted
+60 inserted
+2 inserted
+2 6 7 11 13 15 17 18 22 24 26 29 32 33 38 40 42 44 45 47 48 51 52 59 60 61 63 64 66 74 77 80 86 87 90 94 98 99
+19 inserted
+36 inserted
+20 inserted
+16 inserted
+59 47 7 6 2 42 32 13 11 17 15 16 24 18 22 19 20 26 29 40 38 33 36 45 44 52 48 51 90 64 63 61 60 80 77 74 66 87 86 99 94 98
+99
+59 47 7 6 2 42 32 13 11 17 15 16 24 18 22 19 20 26 29 40 38 33 36 45 44 52 48 51 90 64 63 61 60 80 77 74 66 87 86 99 94 98
+59 47 7 6 2 42 32 13 11 17 15 16 24 18 22 19 20 26 29 40 38 33 36 45 44 52 48 51 90 64 63 61 60 80 77 74 66 87 86 99 94 98
+99
+20
+99
+5 inserted
+76 inserted
+60 found
+59 47 7 6 2 5 42 32 13 11 17 15 16 24 18 22 19 20 26 29 40 38 33 36 45 44 52 48 51 90 64 63 61 60 80 77 74 66 76 87 86 99 94 98
+43 inserted
+73 does not exist
+59 47 7 6 2 5 42 32 13 11 17 15 16 24 18 22 19 20 26 29 40 38 33 36 45 44 43 52 48 51 90 64 63 61 60 80 77 74 66 76 87 86 99 94 98
+78 does not exist
+2 5 6 7 11 13 15 16 17 18 19 20 22 24 26 29 32 33 36 38 40 42 43 44 45 47 48 51 52 59 60 61 63 64 66 74 76 77 80 86 87 90 94 98 99
+2
+2
+9 inserted
+2 5 6 7 9 11 13 15 16 17 18 19 20 22 24 26 29 32 33 36 38 40 42 43 44 45 47 48 51 52 59 60 61 63 64 66 74 76 77 80 86 87 90 94 98 99
