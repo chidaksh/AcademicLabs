@@ -1,0 +1,17 @@
+goldfish
+cat
+dog
+zebra
+goldfish
+cat
+dog
+dog
+elephant
+giraffe
+crocodile
+mouse
+dog
+cat
+goldfish
+goldfish
+seahorse
