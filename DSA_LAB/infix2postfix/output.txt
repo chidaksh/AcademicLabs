@@ -1,0 +1,15 @@
++ is pushed into stack
+* is pushed into stack
+* is popped from stack
+/ is pushed into stack
+( is pushed into stack
+- is pushed into stack
+- is popped from stack
+( is popped from stack
+^ is pushed into stack
+^ is popped from stack
+^ is pushed into stack
+^ is popped from stack
+/ is popped from stack
++ is popped from stack
+Postfix expression is:abc*de-g^h^/+
